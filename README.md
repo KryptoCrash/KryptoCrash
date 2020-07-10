@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on making a CTF!
+I might turn this into an ascii raytracer lol.
